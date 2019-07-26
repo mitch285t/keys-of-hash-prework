@@ -12,8 +12,8 @@ class Hash
       end
     end
     array_of_keys
-  end	  end
-end 	end 
+  end	  
+end
   
      
    

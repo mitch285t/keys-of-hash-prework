@@ -6,3 +6,6 @@ class Hash
    new_array = []
     self.each do |key, value|
      
+     
+   end 
+ end

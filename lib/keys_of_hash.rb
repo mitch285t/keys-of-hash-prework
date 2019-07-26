@@ -12,3 +12,4 @@ class Hash
     array
   end 	
   end
+end
